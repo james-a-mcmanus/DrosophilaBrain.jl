@@ -16,3 +16,4 @@ plot_region!(meshes, "LO_R", color=RGBA(1,0,0,.5))
 scene = plot_brain(meshes, color=RGBA(1,1,1,.2))
 plot_regions!(s, meshes, ["LO_R","LO_L"], color=RGBA(.1,1,.1,.2))
 ```
+![Fly Brain, lobula and ellipsoid body highlighted](https://github.com/james-a-mcmanus/DrosophilaBrain.jl/blob/master/Screenshot_1.png?raw=true)
